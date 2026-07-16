@@ -3,8 +3,10 @@ __pycache__/
 *.pyo
 *.pyd
 
+#notebook
 .ipynb_checkpoints/
 
+#env files
 .venv/
 venv/
 .env
@@ -13,6 +15,7 @@ venv/
 
 *.pbix
 
+#dataset (raw and cleaned)
 data/raw/
 data/cleaned/
 
